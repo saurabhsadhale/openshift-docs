@@ -8,6 +8,7 @@
 
 To use the control plane machine set, you must ensure that a `ControlPlaneMachineSet` custom resource (CR) with the correct settings for your cluster exists. On a cluster with a generated CR, you must verify that the configuration in the CR is correct for your cluster and activate it.
 
+
 [NOTE]
 ====
 For more information about the parameters in the CR, see "Control plane machine set configuration".
